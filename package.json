@@ -1,0 +1,23 @@
+{
+  "name": "react_yelp_clone",
+  "version": "1.0.0",
+  "description": "Building a yelp clone with ReactJS framework",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MisaOgura/react-yelp-clone.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "React"
+  ],
+  "author": "Misa Ogura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MisaOgura/react-yelp-clone/issues"
+  },
+  "homepage": "https://github.com/MisaOgura/react-yelp-clone#readme"
+}
